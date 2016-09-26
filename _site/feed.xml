@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CATLab</title>
+    <description>Cloud and Internet of Things research Lab at lead by Prof. Maheswaran at McGill University located in Montreal, Canada.</description>
+    <link>https://wenger.github.io/</link>
+    <atom:link href="https://wenger.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 26 Sep 2016 12:43:27 -0400</pubDate>
+    <lastBuildDate>Mon, 26 Sep 2016 12:43:27 -0400</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+  </channel>
+</rss>
