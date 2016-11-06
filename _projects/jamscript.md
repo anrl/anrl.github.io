@@ -1,6 +1,6 @@
 ---
 title: JAMScript
-subtitle: A language for the Fog
+subtitle: A programming language for cloud of things
 layout: default
 img: fog.png
 thumbnail: fog-thumbnail.png
