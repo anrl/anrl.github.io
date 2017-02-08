@@ -1,5 +1,5 @@
 ---
-title: GINI
+title: Secure Clouds
 subtitle: A Toolkit for Constructing User-Level Micro Internets
 layout: default
 img: gini.png
