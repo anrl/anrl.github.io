@@ -21,7 +21,7 @@ Images are in '/img/team/'
 
 Publication information goes in '/_publications'
 
-The naming format is: YYYY-MM-DD-Paper-Name.md
+The naming format is: YYYY-MM-DD-paper-name.md
 
 Required fields: author, title, journal, date
 
