@@ -10,7 +10,7 @@
             <div class="row">
             {% for project in site.projects %}
                 <div class="col-md-4 col-sm-6 projects-item">
-                    <a href="#projectsModal{{ project.title }}" class="projects-link" data-toggle="modal">
+                    <a href="#projectsModal{{ project.title | remove: " " }}" class="projects-link" data-toggle="modal">
                         <div class="projects-hover">
                             <div class="projects-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
