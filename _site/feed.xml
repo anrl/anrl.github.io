@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CATLab</title>
-    <description>Cloud and Internet of Things research Lab at lead by Prof. Maheswaran at McGill University located in Montreal, Canada.</description>
+    <description>Cloud and Internet of Things research Lab lead by Prof. Maheswaran at McGill University located in Montreal, Canada.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 14 Feb 2017 11:23:32 -0500</pubDate>
-    <lastBuildDate>Tue, 14 Feb 2017 11:23:32 -0500</lastBuildDate>
+    <pubDate>Tue, 14 Feb 2017 12:23:24 -0500</pubDate>
+    <lastBuildDate>Tue, 14 Feb 2017 12:23:24 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
         <title>Towards a Secure and Trusted Physical Object Model for Context Aware Computing</title>
-        <description>
+        <description>&lt;p&gt;For smart gadgets to gain wider acceptance, we need to de- velop things that can program themselves as users manipulate them to perform their day-to-day chores (a good example is the Nest intelligent thermostat [1]). Users can interact with a ‘thing’ in the physical environment in many different ways including: (a) directly manipulating the thing by using the controls and menus offered by it, (b) moving it from one position to another position, and (c) bringing the thing near the proximity of other things that create a combination with specific capabilities (moving a smart chair near a smart desk). In this extended abstract, we describe a design for a secure and trusted physical object model (POM) that can be used to describe spaces and smart things for context aware computing purposes.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Oct 2014 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2014/10/01/towards-a-secure-and-trusted-physical-object-model-for-context-aware-computing/</link>
@@ -22,7 +22,7 @@
     
       <item>
         <title>JADE: A Unified Programming Framework for Things, Web, and Cloud</title>
-        <description>
+        <description>&lt;p&gt;In this paper, we present JADE, a framework that allows a developer to mix C and JavaScript constructs with JADE supplied keywords to construct a complete program to solve a particular computing activity in a ‘thing’. We describe the language constructs introduced by JADE and explain how they can be used to realize different software interaction patterns involving the thing, web, and cloud. We implemented a proof-of- concept prototype of JADE over Intel Galileos, web, and cloud. The experience of using JADE to write applications on Intel Galileos is described in the paper.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Oct 2014 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2014/10/01/jade-a-unified-programming-framework-for-things-web-and-cloud/</link>
@@ -33,7 +33,7 @@
     
       <item>
         <title>SpaceOS: Operating System Services for Smart Computing Environments</title>
-        <description>
+        <description>&lt;p&gt;SpaceOS is a system software stack for smart computing environments. The major objective of SpaceOS is to make it easier to create applications and deploy them in smart computing environments. It provides several core services for managing smart devices in physical spaces and letting them interact with cloud backends and web-based users. SpaceOS also supports a programming language called Jade that leverages the facilities provided by the system software stack to provide a simpler programming model for the things.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jun 2014 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2014/06/01/spaceos-operating-system-services-for-smart-computing-environments/</link>
@@ -44,7 +44,7 @@
     
       <item>
         <title>Using Community Structure to Control Information Sharing in Online Social Networks</title>
-        <description>
+        <description>&lt;p&gt;The dominant role of social networking in the web is turning human relations into conduits of information flow. This means that the way information spreads on the web is determined to a large extent by human decisions. Consequently, information security lies on the quality of the collective decisions made by the users. Recently, many access control schemes have been proposed to control unauthorized propagation of information in online social networks; however, there is still a need for mechanisms to evaluate the risk of information leakage within social networks. In this paper, we present a novel community-centric confidentiality control mechanism for information flow management on the web. We use a Monte Carlo based algorithm to determine the potential spread of a shared data object and to inform the user of the risk of information leakage associated with different sharing decisions she can make in a social network. By using the information provided by our algorithm, the user can curtail sharing decisions to reduce the risk of information leakage. Alternatively, our algorithm can provide input for a fully- or semi-automatic sharing decision maker that will determine the outcomes of sharing requests. Our scheme also provides a facility to reduce information flowing to a specific user (i.e., black listing a specific user). We used datasets from Facebook and Flickr to evaluate the performance of the proposed algorithms under different sharing conditions. The simulation results indicate that our algorithm can effectively control information sharing to reduce the risk of information leakage.&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Mar 2014 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/2014/03/01/using-community-structure-to-control-information-sharing-in-online-social-networks/</link>
@@ -55,7 +55,7 @@
     
       <item>
         <title>Reality over Web: Pervasive Computing Meets the Web</title>
-        <description>
+        <description>&lt;p&gt;This paper presents a chaotic map based image encoding scheme that allows pixel-level operations to be applied on an image while it remains encoded. Using this image encoding scheme, sensitive images can be manipulated by untrusted public cloud servers. Before the images are uploaded onto the public cloud servers they are encoded using user supplied keys by trusted-cloud servers. We fully describe the chaotic map based image encoding algorithm and perform a detailed security anal- ysis of it. Our security analysis demonstrates that the encoding scheme is robust against a wide variety of threats. Additionally, we implemented many pixel-level filtering operations on images over the proposed encoding and found that the overhead is less than 20%&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Dec 2013 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/2013/12/01/reality-over-web-pervasive-computing-meets-the-web/</link>
@@ -66,7 +66,7 @@
     
       <item>
         <title>Privacy Aware Image Template Matching and Filtering in Clouds Using Ambient Data</title>
-        <description>
+        <description>&lt;p&gt;Cloud computing is ideal for image storage and processing because it provides enormously scalable storage and processing resources at low cost. One of the major drawbacks of cloud computing, however, is the lack of robust mecha- nisms for the users to control the privacy of the data they farm out to the clouds. In this paper, we develop an image encoding scheme that enhances the privacy of image data that is outsourced to the clouds for processing. Unlike previously proposed image encryption schemes, our encoding scheme allows different forms of pixel-level image processing to take place in the clouds while the actual im- age is not revealed to the cloud provider. Our encoding scheme uses a chaotic map to transform the image after it is masked with an arbitrarily chosen ambi- ent image. We use numerous pixel-level image processing tasks such as template matching to demonstrate the ability of our scheme to perform computations on privacy enhanced images. A simplified prototype of the image processing system was implemented and the experimental results are presented in this paper.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Nov 2013 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2013/11/01/privacy-aware-image-template-matching-and-filtering-in-clouds-using-ambient-data/</link>
@@ -77,7 +77,7 @@
     
       <item>
         <title>Confidentiality and Integrity in Crowdsourcing Systems</title>
-        <description>
+        <description>&lt;p&gt;This paper presents a chaotic map based image encoding scheme that allows pixel-level operations to be applied on an image while it remains encoded. Using this image encoding scheme, sensitive images can be manipulated by untrusted public cloud servers. Before the images are uploaded onto the public cloud servers they are encoded using user supplied keys by trusted-cloud servers. We fully describe the chaotic map based image encoding algorithm and perform a detailed security anal- ysis of it. Our security analysis demonstrates that the encoding scheme is robust against a wide variety of threats. Additionally, we implemented many pixel-level filtering operations on images over the proposed encoding and found that the overhead is less than 20%.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Nov 2013 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2013/11/01/confidentiality-and-integrity-in-crowdsourcing-systems/</link>
@@ -88,7 +88,7 @@
     
       <item>
         <title>An Approach for Privacy Enhanced Pixel-Level Image Processing in Hybrid Clouds</title>
-        <description>
+        <description>&lt;p&gt;This paper presents a chaotic map based image encoding scheme that allows pixel-level operations to be applied on an image while it remains encoded. Using this image encoding scheme, sensitive images can be manipulated by untrusted public cloud servers. Before the images are uploaded onto the public cloud servers they are encoded using user supplied keys by trusted-cloud servers. We fully describe the chaotic map based image encoding algorithm and perform a detailed security anal- ysis of it. Our security analysis demonstrates that the encoding scheme is robust against a wide variety of threats. Additionally, we implemented many pixel-level filtering operations on images over the proposed encoding and found that the overhead is less than 20%.&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2013/07/01/an-approach-for-privacy-enhanced-pixel-level-image-processing-in-hybrid-clouds/</link>
@@ -99,7 +99,7 @@
     
       <item>
         <title>Using Segmentation for Confidentiality Aware Image Storage and Retrieval on Clouds</title>
-        <description>
+        <description>&lt;p&gt;Cloud computing is ideally suited for hosting ap- plications with large images because clouds can perform high performance computations and communications at very low upfront cost. While the benefits of clouds are compelling for image processing applications, security and privacy issues in using clouds are creating major problems. Because clouds are not passive storage devices, it is important to avoid encryption schemes that secure the data while preventing efficient processing of the data by the clouds. Therefore, this paper, is investigating approaches where segmentation is used to split the image data across multiple clouds. We show that segmentation, although a simple idea, can bring several benefits when deployed in cloud computing. A prototype of the system has been developed and initial performance results are reported here.&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Dec 2012 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/2012/12/01/using-segmentation-for-confidentiality-aware-image-storage-and-retrieval-on-clouds/</link>
@@ -110,7 +110,7 @@
     
       <item>
         <title>Towards Privacy-Preserving Image Template Matching in the Clouds</title>
-        <description>
+        <description>&lt;p&gt;Template matching is a fundamental building block for image search operations. In this paper, we present a scheme that allows privacy-preserving template matching operations on images that are stored on clouds. Our scheme uses “ambient image data” (images that are found in social media sites such as Flickr) as well as a privacy-preserving encoding technique to encode a given image before it is stored in a cloud. We show a particular encoding strategy that allows template matching to take place in the cloud while not revealing any information about the image or queried template to the cloud. A simplified prototype of the image processing system was implemented and the experimental results are presented in this paper. Our prototype shows the feasibility of performing privacy-aware template matching on encoded images.&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Dec 2012 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/2012/12/01/towards-privacy-preserving-image-template-matching-in-the-clouds/</link>
