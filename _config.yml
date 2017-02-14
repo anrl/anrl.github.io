@@ -58,7 +58,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: McConnell Engineering Building, Room 2
+  - line: muthucumaru.maheswaran@mcgill.ca
+  - line: McConnell Engineering Building, Room 224
   - line: 3480 University Street
   - line: Montreal, QC, H3A 2A7 Canada
 
