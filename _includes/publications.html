@@ -8,8 +8,7 @@
             </div>
         </div>
          <div class="row">
-            {% assign pubs = site.publications | reverse %}
-            {% for publication in pubs limit: 3 %}
+            {% for publication in site.posts limit: 3 %}
                 <div class="col-md-4 col-sm-6 projects-item">
                     <a href="#projectsModal{{ publication.title }}" class="projects-link" data-toggle="modal">
                         <!--<div class="projects-hover">

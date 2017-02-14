@@ -3,11 +3,121 @@
   <channel>
     <title>CATLab</title>
     <description>Cloud and Internet of Things research Lab at lead by Prof. Maheswaran at McGill University located in Montreal, Canada.</description>
-    <link>https://wenger.github.io/</link>
-    <atom:link href="https://wenger.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 26 Sep 2016 12:43:27 -0400</pubDate>
-    <lastBuildDate>Mon, 26 Sep 2016 12:43:27 -0400</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 14 Feb 2017 11:23:32 -0500</pubDate>
+    <lastBuildDate>Tue, 14 Feb 2017 11:23:32 -0500</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Towards a Secure and Trusted Physical Object Model for Context Aware Computing</title>
+        <description>
+</description>
+        <pubDate>Wed, 01 Oct 2014 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2014/10/01/towards-a-secure-and-trusted-physical-object-model-for-context-aware-computing/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/10/01/towards-a-secure-and-trusted-physical-object-model-for-context-aware-computing/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>JADE: A Unified Programming Framework for Things, Web, and Cloud</title>
+        <description>
+</description>
+        <pubDate>Wed, 01 Oct 2014 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2014/10/01/jade-a-unified-programming-framework-for-things-web-and-cloud/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/10/01/jade-a-unified-programming-framework-for-things-web-and-cloud/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>SpaceOS: Operating System Services for Smart Computing Environments</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Jun 2014 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2014/06/01/spaceos-operating-system-services-for-smart-computing-environments/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/06/01/spaceos-operating-system-services-for-smart-computing-environments/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Using Community Structure to Control Information Sharing in Online Social Networks</title>
+        <description>
+</description>
+        <pubDate>Sat, 01 Mar 2014 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2014/03/01/using-community-structure-to-control-information-sharing-in-online-social-networks/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/03/01/using-community-structure-to-control-information-sharing-in-online-social-networks/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Reality over Web: Pervasive Computing Meets the Web</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Dec 2013 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2013/12/01/reality-over-web-pervasive-computing-meets-the-web/</link>
+        <guid isPermaLink="true">http://localhost:4000/2013/12/01/reality-over-web-pervasive-computing-meets-the-web/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Privacy Aware Image Template Matching and Filtering in Clouds Using Ambient Data</title>
+        <description>
+</description>
+        <pubDate>Fri, 01 Nov 2013 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2013/11/01/privacy-aware-image-template-matching-and-filtering-in-clouds-using-ambient-data/</link>
+        <guid isPermaLink="true">http://localhost:4000/2013/11/01/privacy-aware-image-template-matching-and-filtering-in-clouds-using-ambient-data/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Confidentiality and Integrity in Crowdsourcing Systems</title>
+        <description>
+</description>
+        <pubDate>Fri, 01 Nov 2013 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2013/11/01/confidentiality-and-integrity-in-crowdsourcing-systems/</link>
+        <guid isPermaLink="true">http://localhost:4000/2013/11/01/confidentiality-and-integrity-in-crowdsourcing-systems/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>An Approach for Privacy Enhanced Pixel-Level Image Processing in Hybrid Clouds</title>
+        <description>
+</description>
+        <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2013/07/01/an-approach-for-privacy-enhanced-pixel-level-image-processing-in-hybrid-clouds/</link>
+        <guid isPermaLink="true">http://localhost:4000/2013/07/01/an-approach-for-privacy-enhanced-pixel-level-image-processing-in-hybrid-clouds/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Using Segmentation for Confidentiality Aware Image Storage and Retrieval on Clouds</title>
+        <description>
+</description>
+        <pubDate>Sat, 01 Dec 2012 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2012/12/01/using-segmentation-for-confidentiality-aware-image-storage-and-retrieval-on-clouds/</link>
+        <guid isPermaLink="true">http://localhost:4000/2012/12/01/using-segmentation-for-confidentiality-aware-image-storage-and-retrieval-on-clouds/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Towards Privacy-Preserving Image Template Matching in the Clouds</title>
+        <description>
+</description>
+        <pubDate>Sat, 01 Dec 2012 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2012/12/01/towards-privacy-preserving-image-template-matching-in-the-clouds/</link>
+        <guid isPermaLink="true">http://localhost:4000/2012/12/01/towards-privacy-preserving-image-template-matching-in-the-clouds/</guid>
+        
+        
+      </item>
     
   </channel>
 </rss>
